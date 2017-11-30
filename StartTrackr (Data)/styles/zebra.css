@@ -1,0 +1,9 @@
+/* zebra class */
+.zebra {
+	color: #052;
+	background: #fee;
+}
+
+tr.zebraHover {
+	background-color: #ffc;
+}
